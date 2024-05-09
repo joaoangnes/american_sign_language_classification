@@ -1,3 +1,10 @@
+# Autores
+
+- Allan Rodrigo Remedi Amantino
+- Joao Vitor Silva Gomes
+- João Arthur Z. Angnes
+- João Lucas de Oliveira Vieira
+
 # Detecção de Linguagem de Sinais usando Pontos de Referência - Python
 
 - Neste projeto, o objetivo principal é criar um modelo que identifique as letras do alfabeto de sinais americano.
@@ -49,9 +56,9 @@ O modelo escolhido a ser utilizado nessa base de teste será Random Forest.
 
 O Random Forest é um algoritmo de aprendizado de máquina que utiliza múltiplas árvores de decisão durante o treinamento e produz a classe que é a moda das classes (classificação) ou a média das previsões individuais (regressão) das árvores. Ele é um método de ensemble, o que significa que combina as previsões de vários modelos para melhorar a robustez e a precisão da previsão.
 
-No contexto deste projeto, o Random Forest foi escolhido para a classificação de imagens de linguagem de sinais por algumas razões. 
+No contexto deste projeto, o Random Forest foi escolhido para a classificação de imagens de linguagem de sinais por algumas razões.
 
-Primeiro, ele é capaz de lidar com um grande número de recursos e identificar os mais importantes, o que é útil quando se trabalha com dados de imagens que podem ter muitos pontos de referência. 
+Primeiro, ele é capaz de lidar com um grande número de recursos e identificar os mais importantes, o que é útil quando se trabalha com dados de imagens que podem ter muitos pontos de referência.
 
 Segundo, ele é menos propenso a overfitting em comparação com outros algoritmos de aprendizado de máquina, devido à sua natureza de ensemble. Terceiro, ele é fácil de usar e fornece uma boa performance com parâmetros padrão, tornando-o uma escolha popular para muitos problemas de classificação.
 

@@ -10,7 +10,7 @@ pTime = 0
 cTime = 0
 largura_janela = 640
 altura_janela = 480
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 cap.set(3, largura_janela)
 cap.set(4, altura_janela)
 
